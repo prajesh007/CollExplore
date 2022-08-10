@@ -23,9 +23,22 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/vendor/boxicons/css/boxicons.min.css",
+              "src/assets/vendor/swiper/swiper-bundle.min.css",
+              "src/assets/vendor/lightgallery/css/lightgallery-bundle.min.css",
+              "src/assets/css/theme.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js",
+              "src/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js",
+              "src/assets/vendor/parallax-js/dist/parallax.min.js",
+              "src/assets/vendor/rellax/rellax.min.js",
+              "src/assets/vendor/swiper/swiper-bundle.min.js",
+              "src/assets/vendor/lightgallery/lightgallery.min.js",
+              "src/assets/vendor/lightgallery/plugins/video/lg-video.min.js",
+              "src/assets/js/theme.min.js"
+            ]
           },
           "configurations": {
             "production": {
